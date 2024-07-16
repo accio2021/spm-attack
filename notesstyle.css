@@ -240,6 +240,16 @@ section {
     background-size: cover;
 }
 
+#phyf4c1 .preview {
+    background-image: url(images/physics/f4c1.png);
+    background-size: cover;
+}
+
+#phyf4c2 .preview {
+    background-image: url(images/physics/f4c2.png);
+    background-size: cover;
+}
+
 .notes-box:hover {
     box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.5);
     transform: scale(1.05);
